@@ -1,0 +1,9 @@
+prefect
+minio
+boto3
+clickhouse-connect
+requests
+pandas
+pydantic
+python-telegram-bot
+python-dotenv
